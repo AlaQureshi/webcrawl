@@ -1,4 +1,3 @@
-package src.org.crawler;
 
 import org.jsoup.Connection;
 import org.jsoup.Jsoup;
@@ -14,7 +13,7 @@ public class SiteCrawler {
     private static final Logger LOGGER = Logger.getLogger(SiteCrawler.class.getName());
 
     public static void main(String[] args) {
-        String startUrl = "https://www.youtube.com/";
+        String startUrl = "https://webscraper.io/test-sites/e-commerce/allinone";
         exploreWebsite(1, startUrl, new HashSet<>());
     }
 
