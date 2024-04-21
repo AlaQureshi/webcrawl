@@ -15,7 +15,7 @@ The crawler outputs information about each successfully visited webpage directly
 
 Copy code using URL from github to clone repository.
 Launch VS Code and select clone repository.
-Past the Github URL in the “Git Repository URL:” box.
+Paste the Github URL in the “Git Repository URL:” box.
 Select preferred Directory.
 Once the project is open in IDE, go online and download JSOUP.
 Once downloaded add JSOUP to the project in the referenced libraries.
